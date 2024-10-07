@@ -4,5 +4,6 @@
 
 ## Necessita:
 -- Chromedrive.exe referenet a versão do Chrome.
+
 -- Bibloteca externa Selenium.
-   -- pip install selenium
+   - pip install selenium -
